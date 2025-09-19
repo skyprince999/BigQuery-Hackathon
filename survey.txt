@@ -1,0 +1,27 @@
+**Team Survey: BigQuery AI - Building the Future of Data**
+
+**Instructions:**
+
+*   This survey is for bonus points.
+*   Points are awarded for completeness, not for the content of your answers.
+*   We highly encourage everyone to submit one.
+*   There are 3 questions in total - please answer all 3.
+---
+
+**Team Member Experience:**
+
+1)  **BigQuery AI:** Please list each team member(s) months of experience with BigQuery AI.
+    *   Aakash Gupta: 5
+    *   
+
+2)  **Google Cloud:** Please list each team member(s) months of experience with Google Cloud.
+    *   Aakash Gupta: 120
+    *   
+
+---
+
+3)  **Feedback:**
+
+We’d love to hear from you and your experience in working with the technology during this hackathon, positive or negative. Please provide any feedback on your experience with BigQuery AI.
+
+I have been a GCP user for more than a decade, and I find it super easy to use and very intutive. Having said that most of our customers are using SQL and its various variants for a long time. So getting started with BQ is easy. But the challenge we face are in migrating the SQL code. An easy way to migrate legacy SQL code to BigQueryAI will be appreciated. Also it should be easier to embed models from other providers into the eco-system. This prevents vendor lockin and gives us an easy way to benchmark different model outputs. 
